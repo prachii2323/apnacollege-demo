@@ -1,4 +1,4 @@
-# apnacollege-demo
+clear# apnacollege-demo
 This is my first repository
 <br>
-Author-Prachii
+Author-Prachii (apna college)
